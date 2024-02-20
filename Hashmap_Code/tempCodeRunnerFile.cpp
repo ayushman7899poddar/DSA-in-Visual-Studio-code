@@ -1,0 +1,1 @@
+cout<<"no. is "<<count;
